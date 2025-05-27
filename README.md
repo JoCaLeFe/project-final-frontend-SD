@@ -1,7 +1,16 @@
 # Proyecto Final - Sistemas Distribuidos
 
-Este es el repositorio del proyecto final de la materia **Sistemas Distribuidos**, desarrollado con Flutter y exportado desde FlutterFlow.
+Proyecto desarrollado con Flutter y exportado desde FlutterFlow.
 
+---
+
+## 🌐 Prueba la app en línea
+
+Puedes acceder a la aplicación sin necesidad de instalar nada desde el siguiente enlace:
+
+👉 [https://proyectofinalsd.flutterflow.app/home](https://proyectofinalsd.flutterflow.app/home)
+
+---
 
 ## 🚀 Cómo ejecutar la versión web
 
@@ -12,6 +21,8 @@ Para correrlo correctamente, sigue estos pasos:
 
 - Tener instalado [Flutter SDK](https://docs.flutter.dev/get-started/install) (canal **stable**)
 - Navegador moderno (por ejemplo, Chrome)
+
+---
 
 ### ⚙️ Instrucciones
 
@@ -69,7 +80,7 @@ flutter run -d chrome
 
 ## 👨‍💻 Créditos
 
-Proyecto desarrollado por el equipo de la materia **Sistemas Distribuidos** como parte de la Universidad Autónoma de Yucatán.
+Proyecto desarrollado para la asignatura **Sistemas Distribuidos** de la Universidad Autónoma de Yucatán.
 
 Integrantes del equipo:
 
